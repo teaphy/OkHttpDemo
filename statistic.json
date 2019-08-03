@@ -1,11 +1,11 @@
-	{
-  "count": 1,
-  "dataList": [
-    {
-      "humidity": 19.654321,
-      "month": "2019-07",
-      "temp": 12.223456
-    }
-  ],
-  "resultCode": 0
+{
+    "count":1,
+    "dataList":[
+        {
+            "humidity":19.654321,
+            "month":"2019-07",
+            "temp":12.223456
+        }
+    ],
+    "resultCode":0
 }
